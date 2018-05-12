@@ -1,0 +1,33 @@
+_repo: M-moires-sur-la-vie-publique-et-priv-e-de-Fouquet-surintendant-des-finance-et-sur-son-fr-re-l__26082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Chéruel, Aldophe
+    aliases:
+    - Chéruel, Pierre Aldophe
+    - Cheruel, Aldophe
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '31784'
+    url: http://www.gutenberg.org/2009/agents/31784
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26082'
+  lccn: 08002512
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- !lcsh 'Fouquet, Nicolas, 1615-1680'
+- !lcc 'DC'
+title: Mémoires sur la vie publique et privée de Fouquet, surintendant des finance
+  et sur son frère l'abbé Fouquet
+url: http://www.gutenberg.org/ebooks/26082
