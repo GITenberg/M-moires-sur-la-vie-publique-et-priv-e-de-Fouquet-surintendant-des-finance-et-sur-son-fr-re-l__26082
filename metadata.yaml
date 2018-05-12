@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31784'
     url: http://www.gutenberg.org/2009/agents/31784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26082#M-moires-sur-la-vie-publique-et-priv-e-de-Fouquet-surintendant-des-finance-et-sur-son-fr-re-l_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2008-07-17'
 gutenberg_type: Text
